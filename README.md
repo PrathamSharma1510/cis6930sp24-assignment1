@@ -1,5 +1,8 @@
 # README for CIS6930 Assignment 1: The Censoror
 
+**Name:** Pratham Sharma
+**UFID:** 99812068
+
 ## Assignment Description
 
 This assignment is about creating a system that's going to censor out sensitive info from text documents. What we're targeting are names, dates, phone numbers, and addresses, and we're replacing them with a censorship character, which is. The way it works is pretty straightforward: it processes plain text documents and spits out the censored versions into a directory you specify. It'll also give you some stats about what got censored.
@@ -175,6 +178,22 @@ pipenv run python -m pytest
 
 It'll run through all the checks to make sure the script's censoring game is still strong.
 
-## The Lowdown on Test Files
+## Test Suite for Censorship Module
 
-In the tests, we're putting the script through its paces with Pytest, checking it can handle phone numbers like a champ and making sure it's not letting any addresses or email names slip through. It's like our way of keeping the script on its toes, making sure it's ready for whatever text comes its way.
+This document outlines the test suite implemented in `test_file.py` for evaluating the functionality of our `censoror` module. The suite focuses on the module's capability to effectively identify and censor sensitive information such as phone numbers, addresses, and names within email addresses.
+
+### Overview of Tests
+
+Our tests leverage `pytest` for execution, employing mock objects from `unittest.mock` to emulate interactions with external services like the Google Cloud Natural Language API. The suite is structured to ensure the `censoror` module's operations conform to expected behaviors across various scenarios.
+
+#### Phone Number Censorship
+
+The `test_censor_phone_numbers` method conducts multiple tests to validate the censoring mechanism for phone numbers. It examines different phone number formats to ensure they're accurately identified and replaced with a corresponding number of censorship marks.
+
+#### Address Censorship Using Mocks
+
+In `test_censor_addresses_with_mock`, we simulate responses from the Google Cloud Natural Language API to test our address censorship feature without actual API requests. This method allows us to assess the functionality's accuracy in detecting and censoring addresses within texts.
+
+#### Email Name Extraction and Censorship
+
+The `test_extract_and_censor_email_names` evaluates the extraction of names from within email addresses and their subsequent censorship. It confirms that the process not only censors names correctly but also updates censorship statistics as expected.
