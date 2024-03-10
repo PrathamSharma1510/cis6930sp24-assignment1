@@ -1,8 +1,8 @@
-# README for CIS6930 Assignment 1: The Censoror
+## README for CIS6930 Assignment 1: The Censoror
 
 ## Assignment Description
 
-This assignment is about creating a system that's going to censor out sensitive info from text documents. What we're targeting are names, dates, phone numbers, and addresses, and we're replacing them with a censorship character, which is █. The way it works is pretty straightforward: it processes plain text documents and spits out the censored versions into a directory you specify. It'll also give you some stats about what got censored.
+This assignment is about creating a system that's going to censor out sensitive info from text documents. What we're targeting are names, dates, phone numbers, and addresses, and we're replacing them with a censorship character, which is. The way it works is pretty straightforward: it processes plain text documents and spits out the censored versions into a directory you specify. It'll also give you some stats about what got censored.
 
 #### Installation Instructions
 
