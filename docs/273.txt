@@ -1,48 +1,49 @@
 Message-ID: <30155775.1075857600109.JavaMail.evans@thyme>
-Date: Tue, ██████████ 10:54:00 -0700 (PDT)
-From: ███████████@enron.com
-To: ████████████@enron.com
+Date: Tue, 8 Aug 2000 10:54:00 -0700 (PDT)
+From: john.arnold@enron.com
+To: greg.whalley@enron.com
 Subject: Reuters Story on E-Exchange
 Mime-Version: 1.0
 Content-Type: text/plain; charset=us-ascii
 Content-Transfer-Encoding: 7bit
-X-From: ███████████
-X-To: ████████████
+X-From: John Arnold
+X-To: Greg Whalley
 X-cc: 
 X-bcc: 
 X-Folder: \John_Arnold_Dec2000\Notes Folders\'sent mail
-X-Origin: ████████
-X-FileName: Jarnold.nsf
+X-Origin: Arnold-J
+X-FileName: Jarnold sam
 
----------------------- Forwarded by ███████████/HOU/ECT on ██████████ 05:54 
+---------------------- Forwarded by John Arnold/HOU/ECT on 08/08/2000 05:54 
 PM ---------------------------
 
 
-"Zerilli, █████" <████████@POWERMERCHANTS.COM> on ██████████ 08:17:19 AM
-To: "██████████████████ (E-mail)" <████████@SEMPRATRADING.COM>, 
-"'███████@enron.com'" <███████@enron.com>
-cc: "Glynn,█████" █████████████████████████M>, "████████, ████" 
-<█████████@POWERMERCHANTS.COM>, "█████, ████████████████████████████████OM> 
+"Zerilli, Frank" <fzerilli@POWERMERCHANTS.COM> on 08/08/2000 08:17:19 AM
+To: "David D'alessandro (E-mail)" <DDALESSA@SEMPRATRADING.COM>, 
+"'jarnold@enron.com'" <jarnold@enron.com>
+cc: "Glynn,Kevin" <kglynn@POWERMERCHANTS.COM>, "Wolkwitz, Rick" 
+<rwolkwitz@POWERMERCHANTS.COM>, "Kelly, Joseph" <jkelly@POWERMERCHANTS.COM> 
 Subject: Reuters Story on E-Exchange
 
 
-By █████████████
+By Fiona O'Brien
    LONDON, Aug 8 (Reuters) - The head of the largest yet Internet
 exchange for energy products said it will combine traditional anonymity
 with transparency to give traders a better overview of market activity.
    The InterContinentalExchange (ICE), an Atlanta-based venture
-initiated by seven major oil companies and banks is due to launch August
-24 for trade in precious metals swaps, with energy products trade to go
+ and banks is due to launch August 
+ 24 for trade in precious metals swaps, with energy products trade to goinitiated by seven major oil companies
 live soon afterwards.
    While market transparency will increase as dealers used to
 over-the-counter (OTC) telephone-based market trade on a screen, users
-of the ICE will remain nameless up until the point of trade, ████████████████, ICE's chief executive officer told Reuters in an interview.
+of the ICE will remain nameless up until the point of trade, Jeffrey
+Sprecher, ICE's chief executive officer told Reuters in an interview.
    "As soon as you hit the deal, the system reveals both
 counterparties," he said. "The real strength is that you (still) get the
 ability to manage your own counterparties.
    "You can list all of the people you want to do business with and put
 in the credit terms under which you will do business."
-   This information will then be processed by what ████████ called a
+   This information will then be processed by what Sprecher called a
 "giant matrix" within the system.
    "(At the moment) people in the over-the-counter market aren't sure
 they have ever seen the entire market," he said.
@@ -51,7 +52,7 @@ can't do will be in grey, but you can see the entire market."
    Giving players a fuller complement of figures than they are currently
 aware of in a telephone-dominated market should increase market
 transparency, as they can keep abreast of the activities of dealers who
-fall outside their own trading criteria, ████████ said.
+fall outside their own trading criteria, Sprecher said.
    The exchange is expected to function in real time around the clock
 and will be accessible via the public internet or a private network
 connection.
@@ -66,13 +67,13 @@ internationally in unregulated OTC oil derivatives.
 companies, American Electric Power <AEP.N,> Utilicorp's Aaquila Energy
 <UCU.N,> Duke Energy <DUK.N,> El Paso Energy <EPG.N>, Reliant Energy
 <REI.N> and Southern Company Energy Marketing <SO.N>.
-   ████████ said continued liquidity would be ensured by the fact that
+   Sprecher said continued liquidity would be ensured by the fact that
 the founding members will pay fees even if they do not trade and will
 face additional penalties if they fail to live up to their commitment to
 trade a minimum volume.
 
    TRADERS STILL TO DO OWN CLEARING
-   As well as increasing awareness of market moves, ████████ believes
+   As well as increasing awareness of market moves, Sprecher believes
 trading over the Internet could boost trading profits.
 "The economics (of the system) will be driven by the fact that a
 paperless back office can really save a lot of money," he said.
@@ -84,15 +85,15 @@ receive an electronic deal ticket which will then go through those
 players' own risk management systems.
    But the exchange is eager to look at ways of introducing its own
 clearing system.
-  "No one really knows how at the moment," ████████ said. "There might
+  "No one really knows how at the moment," Sprecher said. "There might
 be some hybrid between traditional exchange clearing and what now exists
 peer to peer."
   In terms of participation costs, no membership fees will be incurred
 except those associated with trading. Membership is open to any
 commercial market participant.
    Each product will have its own published commission schedule, which
-████████ assessed at "slightly below the best prices someone would pay
-in the voice broker business".  ((London newsroom ████████████████)
+Sprecher assessed at "slightly below the best prices someone would pay
+in the voice broker business".  ((London newsroom +44 20 7542 7930)
 
 For related news, double click on one of the following codes:
 [O] [E] [ACD] [U] [ELE] [ELN] [UKI] [EMK] [MD] [CRU] [PROD] [ELG] [NGS]
@@ -103,7 +104,7 @@ For related news, double click on one of the following codes:
 For related price quotes, double click on one of the following codes:
 <BPA.L> <DBKGn.DE> <GS.N> <MWD.N> <SHEL.L> <SOGN.PA>
 
-Tuesday, █████████████ 13:24:31
+Tuesday, 8 August 2000 13:24:31
 RTRS [nL08439249]
 
 

@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+spacy = "*"
+pytest = "*"
+en_core_web_md = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl"}
+google-cloud-language = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
